@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'feedbacks-api'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_152B6E0F0E7D46D2A7A61B917CED5816 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EFD439314B6A458293C7FF045E368359 }}
           package: '*.jar'
